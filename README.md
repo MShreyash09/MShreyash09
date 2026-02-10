@@ -17,4 +17,3 @@ I'm Shreyash Mandlapure — a passionate and driven 2nd-year IT student with a s
 ---
 [![](https://visitcount.itsvg.in/api?id=MShreyash09&icon=10&color=13)](https://visitcount.itsvg.in)
 
-![mario]([b00d6c9.gif](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif))
