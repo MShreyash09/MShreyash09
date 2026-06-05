@@ -18,7 +18,6 @@ I'm a passionate **2nd-year Information Technology student (9.3 CGPA)** speciali
 - 🧠 **Currently learning:** Advanced RAG architectures, LangGraph, and Cloud Infrastructure.
 - 💡 **Currently building:** Privacy-first AI productivity tools and scalable GenAI applications.
 - 🏆 **Recent Win:** 1st Place at the MIT AI Grand Challenge (InsureTrust AI).
-- 💬 **Ask me about:** React, FastAPI, Local LLMs, or Web Performance.
 
 ---
 
