@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Shreyash Mandlapure 👋</h1>
-  <p><strong>Applied AI Engineer | Full-Stack Developer | Innovator</strong></p>
+  <p><strong>Gen AI Engineer | Full-Stack Developer | Innovator</strong></p>
 </div>
 
 ---
