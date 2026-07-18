@@ -13,7 +13,7 @@
 
 ### 💫 About Me
 
-I'm a passionate **2nd-year Information Technology student (9.3 CGPA)** specializing in architecting scalable full-stack applications and deploying **Applied AI** pipelines. I thrive on solving complex engineering challenges, from optimizing local LLM deployments to building real-time predictive dashboards.
+I'm a passionate **3rd-year Information Technology student (9.3 CGPA)** specializing in architecting scalable full-stack applications and deploying **Applied AI** pipelines. I thrive on solving complex engineering challenges, from optimizing local LLM deployments to building real-time predictive dashboards.
 
 - 🧠 **Currently learning:** Advanced RAG architectures, LangGraph, and Cloud Infrastructure.
 - 💡 **Currently building:** Privacy-first AI productivity tools and scalable GenAI applications.
