@@ -60,9 +60,9 @@ I'm a **3rd-year Information Technology student (9.3 CGPA)** who architects scal
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MShreyash09&show_icons=true&bg_color=0D1117&border_color=21262D&title_color=10B981&text_color=C9D1D9&icon_color=38BDF8&ring_color=10B981&border_radius=12" alt="GitHub Stats" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=MShreyash09&show_icons=true&bg_color=0D1117&border_color=21262D&title_color=10B981&text_color=C9D1D9&icon_color=38BDF8&ring_color=10B981&border_radius=12" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShreyash09&layout=compact&bg_color=0D1117&border_color=21262D&title_color=10B981&text_color=C9D1D9&border_radius=12" alt="Top Languages" />
-  <br/>
+  <br/> -->
   <img height="170" src="https://streak-stats.demolab.com?user=MShreyash09&background=0D1117&border=21262D&stroke=21262D&ring=10B981&fire=10B981&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=10B981&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="GitHub Streak" />
 </div>
 
