@@ -70,7 +70,7 @@ I'm a **3rd-year Information Technology student (9.3 CGPA)** who architects scal
 
 <div align="center">
   <a href="https://github.com/MShreyash09">
-    <img width="860" alt="MShreyash09 Space Shooter" src="https://github.com/user-attachments/assets/016c557b-1149-4da2-a0e3-5066cb7f0960" />
+    <img width="860" height="230" alt="MShreyash09-space-shooter (1)" src="https://github.com/user-attachments/assets/bf713a5e-952b-45cd-b2ab-0c5d34e742a2" />
   </a>
 </div>
 
