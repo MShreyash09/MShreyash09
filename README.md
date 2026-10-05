@@ -21,6 +21,7 @@
 I'm a **3rd-year Information Technology student (9.3 CGPA)** who architects scalable full-stack applications and deploys **Applied AI** pipelines. I like hard engineering problems, from optimizing local LLM deployments to building real-time predictive dashboards.
 
 - 🏆 **Recent win:** 1st Place at the MIT AI Grand Challenge (InsureTrust AI)
+- 💻 **Latest project work** : **Termicursor** - A local based IDE to run open source models & cloud models.
 - 🔨 **Currently building:** Privacy-first AI productivity tools and scalable GenAI applications
 - 🧠 **Currently learning:** Advanced RAG architectures, LangGraph, and cloud infrastructure
 
